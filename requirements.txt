@@ -6,7 +6,6 @@ astunparse==1.6.3
 atomicwrites==1.4.0
 AudioRecorder==0.1
 backports.weakref==1.0.post1
-conda-repo-cli==1.0.75
 conda-verify==3.4.2
 et-xmlfile==1.1.0
 filetype==1.2.0
